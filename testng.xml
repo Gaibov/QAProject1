@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="org.xyz.automation.ama.FirstAutomation"/>
+      <class name="org.xyz.automation.fb.BrowseControl"/>
+      <class name="org.xyz.automation.fb.MoreFieldsFacebook"/>
+      <class name="org.xyz.automation.fb.HandleKeyboardMouse"/>
+      <class name="org.xyz.automation.fb.MoreFields"/>
+      <class name="LearnTestNG.TestSenario8"/>
+      <class name="FirstPKG.TestNGDemo"/>
+      <class name="LearnTestNG.TestSenario9"/>
+      <class name="org.xyz.automation.fb.FirstAutomation1"/>
+      <class name="org.xyz.automation.fb.FethDataRuntime"/>
+      <class name="LearnTestNG.TestSenario4"/>
+      <class name="LearnTestNG.TestSenario5"/>
+      <class name="LearnTestNG.TestSenario6"/>
+      <class name="LearnTestNG.TestSenario10"/>
+      <class name="LearnTestNG.TestSenario7"/>
+      <class name="org.xyz.automation.fb.FirstAutomation"/>
+      <class name="LearnTestNG.TestSenario1"/>
+      <class name="LearnTestNG.TestSenario2"/>
+      <class name="LearnTestNG.TestSenario3"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
